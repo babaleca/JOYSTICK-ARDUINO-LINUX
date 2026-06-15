@@ -1,4 +1,4 @@
-# 🕹️ linux-serial-arduino-controller
+# linux-serial-arduino-controller
 
 Controle e monitoramento de um dispositivo externo (Arduino Uno) via porta serial USB, em linguagem C e ambiente GNU/Linux, usando chamadas de sistema POSIX.
 
